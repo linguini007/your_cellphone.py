@@ -9,7 +9,7 @@ Abrimos una Consola de Comandos en Windows.
 
 Dentro de la consola de comando hacemos un [python --version], para observar la version de python.
 Cuando instalas python tambien biene con [pip].
-Escribimos 
+Escribimos\n
 [ pip install phonenumbers ] (https://pypi.org/project/phonenumbers/)
 [ pip install folium ] (https://pypi.org/project/folium/)
 [ pip install geocoder ] (https://pypi.org/project/geocoder/)
