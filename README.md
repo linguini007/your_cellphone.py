@@ -8,8 +8,8 @@ Abrimos una Consola de Comandos en Windows.
 [WIN + R],escribimos [cmd], o podemos abrirlo de esta otra manera [WIN], escribimos [cmd].
 
 Dentro de la consola de comando hacemos un [python --version], para observar la version de python.
-Cuando instalas python tambien biene con [pip].
-Escribimos\n
+Cuando instalas python tambien viene con [pip].
+Escribimos
 [ pip install phonenumbers ] (https://pypi.org/project/phonenumbers/)
 [ pip install folium ] (https://pypi.org/project/folium/)
 [ pip install geocoder ] (https://pypi.org/project/geocoder/)
