@@ -11,7 +11,7 @@ Cuando instalas python tambien viene con [pip].
 
 #Instalacion en Windows#
 
--> pip install -r requiremets.txt
+-> pip install -r requirements.txt
 
 Dentro del codigo necesitaremos una KEY la puedes conseguir aqui ( https://opencagedata.com/ )
 
