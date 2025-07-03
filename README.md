@@ -9,7 +9,7 @@ Abrimos una Consola de Comandos en Windows.
 Dentro de la consola de comando hacemos un [python --version], para observar la version de python.
 Cuando instalas python tambien viene con [pip].
 
-#[Instalacion en Windows]
+#Instalacion en Windows#
 
 -> pip install -r requiremets.txt
 
